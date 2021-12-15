@@ -1,8 +1,10 @@
-count,title
-29414,Senior Engineer
-28254,Senior Staff
-14222,Engineer
-12243,Staff
-4502,Technique Leader
-1761,Assistant Engineer
-2,Manager
+count,%,title
+" 29,414 ",33%,Senior Engineer
+" 28,254 ",31%,Senior Staff
+" 14,222 ",16%,Engineer
+" 12,243 ",14%,Staff
+" 4,502 ",5%,Technique Leader
+" 1,761 ",2%,Assistant Engineer
+ 2 ,0%,Manager
+" 90,398 ",,
+,,
