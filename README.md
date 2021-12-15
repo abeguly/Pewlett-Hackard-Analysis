@@ -11,6 +11,7 @@ Based on our analysis we noted the following:
 * The total number of employees eligible for mentorship represents less than 2% of the total retiring list.
 
 Breakdown of retiring titles:
+
 <img src = "Data/retiring_titles.png">
  
 
